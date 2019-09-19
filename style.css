@@ -14,3 +14,7 @@
 
 	div.form {display: block; text-align: center}
 	form {display: inline-block; margin-left: auto; margin-right: auto; text-align: left}
+
+
+	div.footer {position: fixed; left: 0; bottom: 0; width: 100%; background-color: #E98074; color: #FFF; font-size: 10px; 
+	text-align: center}
