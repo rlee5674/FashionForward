@@ -5,7 +5,7 @@
 	article {color: #FFF; font-family: "book antiqua"; font-size: 20px; padding: 10px 20px; width: 100%; box-sizing: border-box;}
 	article h2 {text-align: center; color: #FFF; font-family: "book antiqua"; font-size: 30px;}
 	article h3 {text-align: center; color: #FFF; font-family: "book antiqua"; font-size: 20px;}
-	footer h5 {text-align: center; color: #FFF; font-family: "book antiqua"; font-size: 30px}
+	footer h5 {background-color: A4B3B6; text-align: center; color: #FFF; font-family: "book antiqua"; font-size: 15px}
 
 	nav {background-color: #D83F87; padding: 15px 0;}
 	nav a {color: #FFF; font-size: 17px; font-family: "book antiqua"; font-size: 20px; text-decoration: none; padding: 5px 125px;}
